@@ -47,12 +47,60 @@ nav a:hover {
 }
 
 
+/* stuff for the main */
+main{
+   padding: 1rem 2vw;
+    
+}
+main h1{
+    color: #b40412;
+}
+main h1{
+    color: #b24873;
+    margin-bottom: .2rem;
+}
 
+main p{
+    color: #2f3133;
+    margin: 0 0 .3rem 0;
+}
 
+main ol{
+    padding: .5rem 3vw;
+    background-color: #efefef;
+}
 
+main dl dt {
+    color: #b40412;
+    font-weight: 700;
+}
+main dl dd {
+     color: #024873;
+     font-size: .9rem;
+}
+main ul {
+    list-style-type: circle;
+}
+main ul li {
+    line-height 125%;
+    margin-bottom: .5rem;
+}
 
+main address {
+    font-style: normal;
+    background-color: #f2b705;
+    padding: .5rem;
+    width: 12.5rem;
+    border 1px solid #024873;
+    border-radius: .5rem;
+}
 
-
+main a {
+    color: #024873;
+}
+main a:hover {
+    color: rbg(239,0,24);
+}
 
 
 
